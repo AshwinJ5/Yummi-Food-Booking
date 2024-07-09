@@ -1,0 +1,1 @@
+export const SERVER_URL="https://yummi-food-booking-backend.onrender.com"

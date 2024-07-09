@@ -1,0 +1,21 @@
+
+
+.cart_main .address_div input, .cart_main .address_div select{
+    width: 85%;
+    margin: auto;
+    margin-top: 2rem;
+    height: 2rem;
+    border-radius: 50px;
+    border: 1px solid ;
+
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.cart_main div .row .col-6  input , .row .col-6  select {
+    width: 73%;
+}
